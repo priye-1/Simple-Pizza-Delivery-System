@@ -8,7 +8,8 @@ Runs on terminal
 2. Terminal
 
 ## Note
-1. A new file "NewOrder.txt" is always creted after every execution of the program.
-2. delete this file before every new execution.
+1. Run __init.py__ to start program
+2. A new file "NewOrder.txt" is always creted after every execution of the program.
+3. delete this file before every new execution.
 
 
