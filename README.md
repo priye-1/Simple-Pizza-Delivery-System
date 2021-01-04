@@ -1,5 +1,5 @@
 # Simple-Pizza-Delivery-System
-A Pytrhon script to perform operations of a Pizza delivery system based on commands.
+A Python script to perform operations of a Pizza delivery system based on commands.
 Runs on terminal
 
 ## GETTING STARTED
